@@ -1,5 +1,5 @@
 # vue中封装一个svg组件
-
+##[教程进入博客](https://www.cnblogs.com/Jiangchuanwei/p/9386792.html)
 ## Build Setup
 
 ``` bash
