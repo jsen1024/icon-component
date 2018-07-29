@@ -1,6 +1,4 @@
-# y
-
-> A Vue.js project
+# vue中封装一个svg组件
 
 ## Build Setup
 
